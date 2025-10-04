@@ -11,11 +11,11 @@ SWE + Cloud/DevOps · FastAPI · PostgreSQL/pgvector · Redis · Docker · Terra
 
 ## Selected Projects
 - **Natural Language Communicator (NNC)** — Full-stack LLM communicator (FastAPI, Postgres/pgvector, Redis, Docker, Terraform on AWS, CI/CD)  
-  Repo: https://github.com/AhmadK005/Natural-Language-Communicator-  <!-- keep the trailing hyphen if your repo still has it -->
+  Repo: https://github.com/AhmadK005/Natural-Language-Communicator- 
 - **CPU in Verilog** — 4-stage pipeline CPU on FPGA (instruction decode, ALU, memory, control)  
   Repo: https://github.com/AhmadK005/CPU-Verilog
 - **Portfolio** — Personal site with projects + contact (deployed)  
-  Repo: https://github.com/AhmadK005/my-portfolio · Live: ✅ *add live URL*
+  Repo: https://github.com/AhmadK005/my-portfolio ·
 
 ## What’s next
 - Monitoring (CloudWatch/Grafana) · autoscaling + ALB · auth/rate limiting · tracing
